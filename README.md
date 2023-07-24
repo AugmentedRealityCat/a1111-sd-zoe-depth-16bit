@@ -1,5 +1,7 @@
 # A1111-sd-zoe-depth
-a1111 sd WebUI extention version of ZoeDepth 
+New branch of a1111 sd WebUI ZoeDepth (by @sanmeow) with support for 16 bit PNG output
+Big thanks to @Ratinod for sharing his Python code over here 
+https://github.com/sanmeow/a1111-sd-zoe-depth/issues/2#issuecomment-1500460852 
 ![This is an image](https://github.com/sanmeow/a1111-sd-zoe-depth/blob/main/sample.png)
 
 **Introduce**  
